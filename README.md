@@ -74,7 +74,7 @@ All property listing images are securely hosted on **Cloudinary**, enabling:
 - Deployed on: **Render**  
 - Database: **MongoDB Atlas**
 
-**Live Application:** [WanderLust Project (Link Placeholder)](https://wanderlust-travel-listings.onrender.com/)
+**Live Application:** [WanderLust](https://wanderlust-travel-listings.onrender.com/)
 
 ---
 
