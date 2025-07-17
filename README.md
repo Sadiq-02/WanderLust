@@ -13,8 +13,8 @@
 ## 🌐 Front-end
 
 **Technologies Used:**  
-- HTML, CSS, JavaScript, Tailwind, EJS  
-- Framework: React.js
+- HTML, CSS, JavaScript, EJS  
+- Framework: React.js, Tailwind CSS
 
 **Key Features:**  
 - 📱 **Responsive Design** — Optimized for mobile, tablet, and desktop  
