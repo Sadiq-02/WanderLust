@@ -13,7 +13,7 @@
 ## 🌐 Front-end
 
 **Technologies Used:**  
-- HTML, CSS, JavaScript, Bootstrap, EJS  
+- HTML, CSS, JavaScript, Tailwind, EJS  
 - Framework: React.js
 
 **Key Features:**  
